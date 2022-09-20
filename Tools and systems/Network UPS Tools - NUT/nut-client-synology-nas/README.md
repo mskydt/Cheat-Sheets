@@ -48,6 +48,8 @@ Now that all config files have been created, restart the service:
 ```bash
 sudo upsd -c reload
 ```
+Lastly, you need to enable UPS support in the Synology web interface and add the NUT server IP in the GUI. Save the changes.  
+Oh yeah, disable ssh access, will ya'?
 
 ## Test it
 Check if you get valid configuration settings and information from the UPS:
