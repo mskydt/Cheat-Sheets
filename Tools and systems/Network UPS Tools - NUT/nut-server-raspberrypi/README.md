@@ -5,7 +5,10 @@ The NUT server is the device to which the UPS USB cable is attached. This is the
 I've installed this on a Raspberry Pi that also serves as Qdevice ("Quorum witness") for my two-host Proxmox cluster. Do not use a VM on a host that you plan to shut down with the software as a NUT Server.
 
 ## References
-
+- https://wiki.ledhed.net/index.php?title=Raspberry_Pi_NUT_Server  
+- https://melgrubb.com/2016/12/11/rphs-v2-ups/  
+- https://www.howtoraspberry.com/2020/11/how-to-monitor-ups-with-raspberry-pi/  
+Also, check my overall readme for NUT.
 
 ## Installation
 Attach the USB cable from the UPS and reboot the machine.

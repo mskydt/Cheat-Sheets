@@ -11,7 +11,7 @@ The NUT client is a device that via a network connection gets its information fr
 These config files are used on my Synology Diskstation. The device already uses NUT for the built-in UPS features, but we need to configure a few things to get it working as a NUT client connecting to our NUT server.
 
 ## References
-https://tellini.info/2014/09/connecting-a-synology-diskstation-to-a-nut-server/
+- https://tellini.info/2014/09/connecting-a-synology-diskstation-to-a-nut-server/
 
 ## Preparation
 We need to prepare a few things, namely:
