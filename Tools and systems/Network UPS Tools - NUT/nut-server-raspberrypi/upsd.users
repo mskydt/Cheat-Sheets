@@ -1,0 +1,5 @@
+[admin]
+        password = secret
+        actions = SET
+        instcmds = ALL
+        admin master
