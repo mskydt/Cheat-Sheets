@@ -1,0 +1,13 @@
+# AdGuardHome Allowlist for Mads Skydt
+
+@@||iso.pop-os.org^$important
+@@||amp-api-edge.apps.apple.com^$important
+@@||tr.iadsdk.apple.com^$important
+@@||api.apps.apple.com^$important
+@@||sf-api-token-service.itunes.apple.com^$important
+@@||api-edge.apps.apple.com^$important
+@@||e673.dscx.akamaiedge.net^$important
+@@||www.nfbio.dk^$important
+@@||www.partner-ads.com^$important
+@@||click.redditmail.com^$important
+@@||trk.klclick.com^$important

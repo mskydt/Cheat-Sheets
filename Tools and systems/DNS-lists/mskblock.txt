@@ -1,0 +1,3 @@
+# AdGuardHome Blocklist for Mads Skydt
+
+connectivity-check.ubuntu.com
