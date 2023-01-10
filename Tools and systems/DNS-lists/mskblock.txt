@@ -1,3 +1,7 @@
 # AdGuardHome Blocklist for Mads Skydt
-
 connectivity-check.ubuntu.com
+
+# Domains from phishing emails
+jardindeaventura.com
+heritagenp.com
+otechnologie.net
